@@ -1,4 +1,4 @@
-# 🛒 Proyecto: Priorización de Hipótesis y Test A/B  (SP-10)
+# Priorización de Hipótesis y Test A/B 
 
 
 Este proyecto simula el trabajo de un analista en una tienda online. Se divide en dos partes clave:
